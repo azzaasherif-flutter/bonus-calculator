@@ -1,17 +1,16 @@
-# bonus_calculator
+# Bonus Calculator
 
-A new Flutter project.
+A modern Flutter application that helps employees calculate their annual bonus based on performance evaluation.
 
-## Getting Started
+## Features
+- Enter base salary
+- Select performance rating
+- Calculate bonus instantly
+- Animated result card
+- Arabic RTL interface
+- Clean green & white UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Flutter
+- Dart
+- Material Design
